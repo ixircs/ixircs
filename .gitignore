@@ -1,0 +1,27 @@
+# This repository is PUBLIC — it is the GitHub profile README repo.
+# Personal documents must never be committed here.
+
+# Identity documents and photos
+ktp.*
+KTP.*
+*ktp*.jpg
+*ktp*.jpeg
+*ktp*.png
+pas foto.*
+paspor.*
+passport.*
+*.jpg
+*.jpeg
+*.png
+
+# Saved job-application pages
+*.html
+*_files/
+
+# Personal spreadsheets and documents
+*.xlsx
+*.docx
+
+# OS
+.DS_Store
+Thumbs.db
