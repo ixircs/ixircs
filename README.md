@@ -12,7 +12,7 @@ Jakarta, Indonesia · [Portfolio](https://portofolio-ryan-christopher-setiawa.ve
 
 | Project | What it does | Stack | Result |
 |---|---|---|---|
-| [**Student Placement Predictor**](https://github.com/ixircs/student-placement-predictor) | End-to-end ML pipeline predicting student placement outcomes, with experiment tracking and a served model | scikit-learn Pipeline, MLflow, FastAPI, Streamlit | ROC-AUC 0.903 (classification), R² 0.577 / MAE 2.70 LPA (regression) |
+| [**Student Placement Predictor**](https://github.com/ixircs/student-placement-predictor) | End-to-end ML pipeline predicting student placement outcomes, with experiment tracking and a served model | scikit-learn Pipeline, MLflow, FastAPI, Streamlit | ROC-AUC 0.903 (classification), R² 0.577 / MAE 2.70 LPA (regression) · [live demo](https://student-placement-predictor-nwstbcxym3fqitybwgxi7i.streamlit.app/) |
 | [**Credit Score Deployment**](https://github.com/ixircs/credit-score-deployment) | Credit score classifier deployed as a cloud endpoint | Python, AWS SageMaker, XGBoost | Tuned XGBoost, Macro F1 0.7245 |
 | [**Disaster Image Classification**](https://github.com/ixircs/disaster-image-classification) | Compared EfficientNet-B0, a CNN built from scratch, and MobileNetV2 on disaster images (team project) | Python, TensorFlow/Keras, scikit-learn, pandas, matplotlib | EfficientNet-B0: Macro F1 0.7643, Accuracy 87.46% |
 | [**ASA DataFest 2026: ED Barriers**](https://github.com/ixircs/asa-datafest-2026-ed-barriers) | Team analysis linking transportation barriers to emergency department overuse | Python, Jupyter | ED visit rate 40.1% (barrier) vs 8.4% (no barrier), ~5x |
