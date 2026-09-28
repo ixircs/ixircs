@@ -24,9 +24,9 @@ Jakarta, Indonesia · [Portfolio](https://portofolio-ryan-christopher-setiawa.ve
 > **Note on bfull:** group project (Kelompok 3, 7 members). My role: UI/UX design in Figma, feature implementation, and repository/deployment setup. High-fidelity prototype — payment is simulated, no production backend.
 
 ## Other Work
-- **CompFest DAD (Data Seeker)** — Top 15 finalist. Star-schema data model (dim_negara, dim_provinsi, dim_tahun + fact tables) built in Python/pandas, dashboard in Power BI. Key finding: internet price (% GNI) vs. internet users correlation ρ = -0.79 across 186 countries. *(Repo not published yet.)*
+- **CompFest 18 DAD (Data Seeker)** — Top 15 finalist, qualified through a real-time SQL query online-judge round. Final deliverable: a three-part [Tableau dashboard](https://public.tableau.com/app/profile/sebastian.1749/viz/Dashboard_17903169196680/1) on Indonesia's urban–rural digital divide across 38 provinces, built on a star-schema model prepared in Python/pandas. Key finding: basic connectivity has equalised (phone access 99.0% urban vs 99.4% rural, 1.00×) while device access has not (laptop 13.5% vs 4.8%, 2.80×) — the divide moved from *whether* people are online to *what they can do once there*. *(Team project; dashboard published on a teammate's Tableau Public account.)*
 
 ## Tech I Use
-`Python` `SQL` `pandas` `scikit-learn` `TensorFlow/Keras` `XGBoost` `statsmodels` `MLflow` `FastAPI` `Streamlit` `AWS SageMaker` `Power BI` `Git`
+`Python` `SQL` `pandas` `scikit-learn` `TensorFlow/Keras` `XGBoost` `statsmodels` `MLflow` `FastAPI` `Streamlit` `AWS SageMaker` `Tableau` `Git`
 
 Also used: `TypeScript` `React Native / Expo` `Figma`
